@@ -21,4 +21,5 @@ As Grace Hopper said:
 > now
 > it's time for ...
 
-<img src="https://cdn.pixabay.com/photo/2016/09/01/08/24/smiley-1635449_960_720.png/>
+<img src="https://cdn.pixabay.com/photo/2016/09/01/08/24/smiley-1635449_960_720.png>
+![Alt Text in this place](https://cdn.pixabay.com/photo/2016/09/01/08/24/smiley-1635449_960_720.png)
